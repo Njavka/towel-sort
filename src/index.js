@@ -14,7 +14,3 @@ module.exports = function towelSort(matrix) {
     }
     return result;
 };
-
-module.exports = function towelSort (matrix) {
-  return [];
-}
